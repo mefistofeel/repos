@@ -1,2 +1,2 @@
-sbulav/droidz-slack-bot
+sbulav/droidz-slack-bot  
 AlexFilimonov/server-health
